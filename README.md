@@ -1,2 +1,2 @@
-# Dummy Datas for Json testing
+# Dummy Datas for Api testing
 
