@@ -3,33 +3,33 @@
 "dp": "https://images.unsplash.com/photo-1546039907-7fa05f864c02?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80", 
 "submitted": "10 Submitted",
 "evaluated":"5 Evaluated",
-"pending":"58 pending",
+"pending":"85 Evaluated",
 "quarter":"Second QUARTER",
 "centerDetails":[{
 "name":"Center 1",
 "lastupdate":"10-10-2020",
-"totalquestions":"100"
-"shared":"2"
-"updateDate":"23"
-"complete":"11"
+"totalquestions":"100",
+"shared":"2",
+"updateDate":"23",
+"complete":"11",
 "picture":""
 },
 {
 "name":"Center 2",
 "lastupdate":"11-05-2020",
-"totalquestions":"150"
-"shared":"25"
-"updateDate":"2"
-"complete":"100"
+"totalquestions":"150",
+"shared":"25",
+"updateDate":"2",
+"complete":"100",
 "picture":""
 },
 {
 "name":"Center 3",
 "lastupdate":"12-01-2020",
-"totalquestions":"300"
-"shared":"50"
-"updateDate":"22"
-"complete":"200"
+"totalquestions":"300",
+"shared":"50",
+"updateDate":"22",
+"complete":"200",
 "picture":""
 }]
 }
