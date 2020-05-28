@@ -1,10 +1,10 @@
 { "id": 1, 
-"name": "Muhammed shamshad pattani!",
+"name": "Muhammed shamshad pattani",
 "dp": "https://raw.githubusercontent.com/shamshadpattani/helloworld/master/userdetails/abc%20(1).jpg", 
 "submitted": "10 Submitted",
 "evaluated":"5 Evaluated",
 "pending":"85 Pending",
-"quarter":"Second QUARTER",
+"quarter":"2nd QUARTER",
 "centerDetails":[{
 "name":"Al-AUTOSMART",
 "lastupdate":"10-10-2020",
@@ -15,7 +15,7 @@
 "picture":""
 },
 {
-"name":"Al-jazira",
+"name":"Al-Asfg",
 "lastupdate":"11-05-2020",
 "totalquestions":"150",
 "shared":"25",
