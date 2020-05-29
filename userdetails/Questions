@@ -1,4 +1,3 @@
-
 {
   "questions":[ 
    {"number":"1",
@@ -6,16 +5,16 @@
    "status":"passing",
    "subquestion":
    [{"quesion":"1) Similar parts grouped together"},
-   {"quesion":"2) Compliance with Distributors guidelines",
-   "quesion":,"3) There is irregularity control by visual means (N/A for 1SP)"}]
- }
-   {"number":"2,
+    {"quesion":"2) Compliance with Distributors guidelines"},
+    {"quesion":"3) There is irregularity control by visual means (N/A for 1SP)"}]
+ },
+   {"number":"2",
    "question":"Location sign",
    "status":"skipping",
    "subquestion":
    [{"quesion":"1) Similar parts grouped together"},
    {"quesion":"2) Compliance with Distributors guidelines"},
-   {"quesion":,"3) There is irregularity control by visual means (N/A for 1SP)"}]
+   {"quesion":"3) There is irregularity control by visual means (N/A for 1SP)"}]
    },
    {"number":"3",
    "question":"Payment Method",
@@ -23,45 +22,44 @@
     "subquestion":
    [{"quesion":"1) Similar parts grouped together"},
    {"quesion":"2) Compliance with Distributors guidelines"},
-   {"quesion":,"3) There is irregularity control by visual means (N/A for 1SP)"}]
+   {"quesion":"3) There is irregularity control by visual means (N/A for 1SP)"}]
    },
    {"number":"4",
    "question":"Availability of (DMS)",
    "status":"pending",
     "subquestion":[{"quesion":"1) Similar parts grouped together"},
    {"quesion":"2) Compliance with Distributors guidelines",
-   "quesion":,"3) There is irregularity control by visual means (N/A for 1SP)"}]},
+   "quesion":"3) There is irregularity control by visual means (N/A for 1SP)"}]},
    {"number":"5",
    "question":"Dealer can accept ",
    "status":"pending",
     "subquestion":
    [{"quesion":"1) Similar parts grouped together"},
    {"quesion":"2) Compliance with Distributors guidelines",
-   "quesion":,"3) There is irregularity control by visual means (N/A for 1SP)"}]},
+   "quesion":"3) There is irregularity control by visual means (N/A for 1SP)"}]},
    {"number":"6",
    "question":"Payment Method",
    "status":"passing",
    "subquestion":[{"quesion":"1) Similar parts grouped together"},
    {"quesion":"2) Compliance with Distributors guidelines"},
-   {"quesion":,"3) There is irregularity control by visual means (N/A for 1SP)"}]},
+   {"quesion":"3) There is irregularity control by visual means (N/A for 1SP)"}]},
    {"number":"7",
    "question":"Fasica sign",
    "status":"pending",
     "subquestion":[{"quesion":"1) Similar parts grouped together"},
    {"quesion":"2) Compliance with Distributors guidelines",
-   "quesion":,"3) There is irregularity control by visual means (N/A for 1SP)"}]},
+   "quesion":"3) There is irregularity control by visual means (N/A for 1SP)"}]},
    {"number":"8",
    "question":"Parts Price Menu",
    "status":"skipping",
     "subquestion":
    [{"quesion":"1) Similar parts grouped together"},
    {"quesion":"2) Compliance with Distributors guidelines",
-   "quesion":,"3) There is irregularity control by visual means (N/A for 1SP)"}]},
+   "quesion":"3) There is irregularity control by visual means (N/A for 1SP)"}]},
    {"number":"9",
    "question":"Payment Method",
    "status":"pending",
     "subquestion":[{"quesion":"1) Similar parts grouped together"},
    {"quesion":"2) Compliance with Distributors guidelines",
-   "quesion":,"3) There is irregularity control by visual means (N/A for 1SP)"}]}
+   "quesion":"3) There is irregularity control by visual means (N/A for 1SP)"}]}
    ]}
-  
