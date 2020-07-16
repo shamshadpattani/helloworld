@@ -2,8 +2,8 @@
 	"summary": {
 		"active": true,
 		"quarter": "Quarter 3",
-		"complete": 0,
-		"ongoing": 2,
+		"complete": 100,
+		"ongoing": 20,
 		"pending": 350,
 		"start_date": "2020-07-01",
 		"end_date": "2020-9-30"
