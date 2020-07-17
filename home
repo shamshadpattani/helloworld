@@ -1,0 +1,244 @@
+{
+	"error_code": "0",
+	"message": "Success",
+	"datas": {
+		"category_list": [{
+				"category_id": 1,
+				"category_name": "All Category",
+				"category_image": "https://www.freepngimg.com/thumb/grocery/41622-3-groceries-download-free-png-hq-thumb.png"
+			},
+			{
+				"category_id": 2,
+				"category_name": "Fresh Vegetables",
+				"category_image": "https://www.freepngimg.com/thumb/vegetable/2-2-vegetable-png-clipart.png"
+			},
+			{
+				"category_id": 3,
+				"category_name": "Fresh Fruits",
+				"category_image": "https://freepngimg.com/thumb/fruit/3-2-fruit-picture-thumb.png"
+			},
+			{
+				"category_id": 4,
+				"category_name": "Meat and Fish",
+				"category_image": "https://freepngimg.com/thumb/meat/34542-8-beef-meat-transparent-background-thumb.png"
+			},
+			{
+				"category_id": 5,
+				"category_name": "Others",
+				"category_image": "https://freepngimg.com/thumb/grocery/41637-4-groceries-free-hd-image.png"
+			}
+		],
+		"bannerList": [{
+			"id": 1,
+			"image": "https://i.pinimg.com/236x/cd/1c/7c/cd1c7cbd61e5f596d2d59ae2ea7b3d9c.jpg",
+			"url": "https://www.google.com/"
+		}, {
+			"id": 2,
+			"image": "https://i.pinimg.com/236x/cd/1c/7c/cd1c7cbd61e5f596d2d59ae2ea7b3d9c.jpg",
+			"url": "https://www.google.com/"
+		}, {
+			"id": 3,
+			"image": "https://i.pinimg.com/236x/cd/1c/7c/cd1c7cbd61e5f596d2d59ae2ea7b3d9c.jpg",
+			"url": "https://www.google.com/"
+		}],
+		"offer_products": [{
+				"product_id": 1,
+				"offer_id": 1,
+				"name": "Carrot",
+				"category_id": 2,
+				"category_name": "Fresh Vegetables",
+				"image": "https://www.freepngimg.com/thumb/carrot/1-carrot-png-image-thumb.png",
+				"original_price": 60,
+				"special_price": 45,
+				"offer_percentage": 12,
+				"unit": "Gram",
+				"unit_measure": "500"
+			},
+			{
+				"product_id": 2,
+				"offer_id": 2,
+				"name": "Cabbage",
+				"category_id": 2,
+				"category_name": "Fresh Vegetables",
+				"image": "https://www.freepngimg.com/thumb/cabbage/6-cabbage-png-image-thumb.png",
+				"original_price": 35,
+				"special_price": 25,
+				"offer_percentage": 12,
+				"unit": "Gram",
+				"unit_measure": "500"
+			},
+			{
+				"product_id": 3,
+				"offer_id": 3,
+				"name": "Tomato",
+				"category_id": 2,
+				"category_name": "Fresh Vegetables",
+				"image": "https://www.freepngimg.com/thumb/tomato/3-tomato-png-image-picture-download.png",
+				"original_price": 28,
+				"special_price": 20,
+				"offer_percentage": 12,
+				"unit": "Gram",
+				"unit_measure": "500"
+			},
+			{
+				"product_id": 4,
+				"offer_id": 4,
+				"name": "Cauliflower",
+				"category_id": 2,
+				"category_name": "Fresh Vegetables",
+				"image": "https://www.freepngimg.com/thumb/cabbage/3-cauliflower-png-image-thumb.png",
+				"original_price": 40,
+				"special_price": 27,
+				"offer_percentage": 12,
+				"unit": "Gram",
+				"unit_measure": "500"
+			},
+			{
+				"product_id": 5,
+				"offer_id": 5,
+				"name": "Apple",
+				"category_id": 2,
+				"category_name": "Fresh Fruits",
+				"image": "https://www.freepngimg.com/thumb/apple_fruit/24921-9-apple-fruit-thumb.png",
+				"original_price": 50,
+				"special_price": 38,
+				"offer_percentage": 12,
+				"unit": "Gram",
+				"unit_measure": "500"
+			},
+			{
+				"product_id": 6,
+				"offer_id": 6,
+				"name": "Orange",
+				"category_id": 2,
+				"category_name": "Fresh Fruits",
+				"image": "https://www.freepngimg.com/thumb/orange/19-orange-png-image-download-thumb.png",
+				"original_price": 40,
+				"special_price": 28,
+				"offer_percentage": 12,
+				"unit": "Gram",
+				"unit_measure": "500"
+			},
+			{
+				"product_id": 7,
+				"offer_id": 7,
+				"name": "Banana",
+				"category_id": 2,
+				"category_name": "Fresh Fruits",
+				"image": "https://www.freepngimg.com/thumb/banana/8-banana-png-image-thumb.png",
+				"original_price": 28,
+				"special_price": 18,
+				"offer_percentage": 12,
+				"unit": "Gram",
+				"unit_measure": "500"
+			},
+			{
+				"product_id": 8,
+				"offer_id": 8,
+				"name": "Grapes",
+				"category_id": 2,
+				"category_name": "Fresh Fruits",
+				"image": "https://www.freepngimg.com/thumb/grape/4-grape-png-image-download-picture-thumb.png",
+				"original_price": 45,
+				"special_price": 35,
+				"offer_percentage": 10,
+				"unit": "Gram",
+				"unit_measure": "500"
+			},
+			{
+				"product_id": 9,
+				"offer_id": 9,
+				"name": "Milk",
+				"category_id": 5,
+				"category_name": "Others",
+				"image": "https://www.freepngimg.com/thumb/bottle/14-milk-glass-bottle-png-thumb.png",
+				"original_price": 35,
+				"special_price": 25,
+				"offer_percentage": 10,
+				"unit": "Litre",
+				"unit_measure": "500"
+			},
+			{
+				"product_id": 10,
+				"offer_id": 10,
+				"name": "Egg",
+				"category_id": 5,
+				"category_name": "Others",
+				"image": "https://www.freepngimg.com/thumb/egg/10-egg-png-image-thumb.png",
+				"original_price": 35,
+				"special_price": 25,
+				"offer_percentage": 10,
+				"unit": "Gram",
+				"unit_measure": "500"
+			},
+			{
+				"product_id": 11,
+				"offer_id": 11,
+				"name": "Meat",
+				"category_id": 4,
+				"category_name": "Meat and Fish",
+				"image": "https://www.freepngimg.com/thumb/meat/1-meat-png-picture-thumb.png",
+				"original_price": 110,
+				"special_price": 85,
+				"offer_percentage": 10,
+				"unit": "Gram",
+				"unit_measure": "500"
+			},
+			{
+				"product_id": 12,
+				"offer_id": 12,
+				"name": "Fish",
+				"category_id": 4,
+				"category_name": "Meat and Fish",
+				"image": "https://www.freepngimg.com/thumb/fish/11-fish-png-image-thumb.png",
+				"original_price": 110,
+				"special_price": 85,
+				"offer_percentage": 10,
+				"unit": "Gram",
+				"unit_measure": "500"
+			}
+		],
+		"newlyAdded": [{
+				"product_id": 12,
+				"name": "Fish",
+				"category_id": 4,
+				"category_name": "Meat and Fish",
+				"image": "https://www.freepngimg.com/thumb/fish/11-fish-png-image-thumb.png",
+				"original_price": 110,
+				"unit": "Gram",
+				"unit_measure": "500"
+			},
+			{
+				"product_id": 10,
+				"name": "Egg",
+				"category_id": 5,
+				"category_name": "Others",
+				"image": "https://www.freepngimg.com/thumb/egg/10-egg-png-image-thumb.png",
+				"original_price": 35,
+				"unit": "Gram",
+				"unit_measure": "500"
+			},
+			{
+				"product_id": 12,
+				"name": "Fish",
+				"category_id": 4,
+				"category_name": "Meat and Fish",
+				"image": "https://www.freepngimg.com/thumb/fish/11-fish-png-image-thumb.png",
+				"original_price": 110,
+				"unit": "Gram",
+				"unit_measure": "500"
+			},
+			{
+				"product_id": 5,
+				"offer_id": 5,
+				"name": "Apple",
+				"category_id": 2,
+				"category_name": "Fresh Fruits",
+				"image": "https://www.freepngimg.com/thumb/apple_fruit/24921-9-apple-fruit-thumb.png",
+				"original_price": 50,
+				"unit": "Gram",
+				"unit_measure": "500"
+			}
+		]
+	}
+}
