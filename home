@@ -1,8 +1,6 @@
 {
-	"error_code": "0",
-	"message": "Success",
-	"datas": {
-		"category_list": [{
+  "status":1
+ "category_list": [{
 				"category_id": 1,
 				"category_name": "All Category",
 				"category_image": "https://www.freepngimg.com/thumb/grocery/41622-3-groceries-download-free-png-hq-thumb.png"
