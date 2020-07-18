@@ -6,15 +6,15 @@
 		"category_image": "https://www.freepngimg.com/thumb/grocery/41622-3-groceries-download-free-png-hq-thumb.png"
 	}, {
 		"category_id": 2,
-		"category_name": "Fresh Vegetables",
+		"category_name": "Vegetables",
 		"category_image": "https://www.freepngimg.com/thumb/vegetable/2-2-vegetable-png-clipart.png"
 	}, {
 		"category_id": 3,
-		"category_name": "Fresh Fruits",
+		"category_name": "Fruits",
 		"category_image": "https://freepngimg.com/thumb/fruit/3-2-fruit-picture-thumb.png"
 	}, {
 		"category_id": 4,
-		"category_name": "Meat and Fish",
+		"category_name": "Meat&Fish",
 		"category_image": "https://freepngimg.com/thumb/meat/34542-8-beef-meat-transparent-background-thumb.png"
 	}, {
 		"category_id": 5,
