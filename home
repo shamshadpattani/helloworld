@@ -204,6 +204,7 @@
 			"category_name": "Meat and Fish",
 			"image": "https://www.freepngimg.com/thumb/fish/11-fish-png-image-thumb.png",
 			"original_price": 110,
+			"special_price": 85,
 			"unit": "gm",
 			"unit_measure": "500"
 		},
@@ -215,6 +216,7 @@
 			"category_name": "Others",
 			"image": "https://www.freepngimg.com/thumb/egg/10-egg-png-image-thumb.png",
 			"original_price": 35,
+			"special_price": 25,
 			"unit": "no.s",
 			"unit_measure": "10"
 		},
@@ -225,7 +227,7 @@
 			"category_id": 4,
 			"category_name": "Meat and Fish",
 			"image": "https://www.freepngimg.com/thumb/fish/11-fish-png-image-thumb.png",
-			"original_price": 110,
+			"special_price": 110,
 			"unit": "gm",
 			"unit_measure": "500"
 		},
@@ -236,7 +238,7 @@
 			"category_id": 2,
 			"category_name": "Fruits",
 			"image": "https://www.freepngimg.com/thumb/apple_fruit/24921-9-apple-fruit-thumb.png",
-			"original_price": 50,
+			"special_price": 50,
 			"unit": "gm",
 			"unit_measure": "500"
 		}
