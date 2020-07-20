@@ -205,6 +205,7 @@
 			"image": "https://www.freepngimg.com/thumb/fish/11-fish-png-image-thumb.png",
 			"original_price": 110,
 			"special_price": 85,
+			"offer_percentage": 10,
 			"unit": "gm",
 			"unit_measure": "500"
 		},
@@ -217,6 +218,7 @@
 			"image": "https://www.freepngimg.com/thumb/egg/10-egg-png-image-thumb.png",
 			"original_price": 35,
 			"special_price": 25,
+			"offer_percentage": 10,
 			"unit": "no.s",
 			"unit_measure": "10"
 		},
