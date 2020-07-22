@@ -206,6 +206,19 @@
 			"offer_percentage": 10,
 			"unit": "gm",
 			"unit_measure": "500"
+		},
+		{
+			"product_id": 13,
+			"is_offered": "True",
+			"name": "Mixed Vegetables Combo Packet",
+			"category_id": 4,
+			"category_name": "Vegetables",
+			"image": "https://github.com/Bharath-D/helloworld/blob/master/mixed.png,
+			"original_price": 110,
+			"special_price": 85,
+			"offer_percentage": 10,
+			"unit": "gm",
+			"unit_measure": "500"
 		}
 	],
 	"newlyAdded": [{
