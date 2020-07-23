@@ -48,7 +48,7 @@
 			"image": "https://www.freepngimg.com/thumb/carrot/1-carrot-png-image-thumb.png",
 			"original_price": 60,
 			"special_price": 45,
-			"max_qty": 5000,
+			"max_qty": 5,
 			"offer_percentage": 12,
 			"unit": "gm",
 			"unit_measure": "500"
@@ -62,7 +62,7 @@
 			"image": "https://www.freepngimg.com/thumb/cabbage/6-cabbage-png-image-thumb.png",
 			"original_price": 35,
 			"special_price": 25,
-			"max_qty": 5000,
+			"max_qty": 5,
 			"offer_percentage": 12,
 			"unit": "gm",
 			"unit_measure": "500"
@@ -76,7 +76,7 @@
 			"image": "https://www.freepngimg.com/thumb/tomato/3-tomato-png-image-picture-download.png",
 			"original_price": 28,
 			"special_price": 20,
-			"max_qty": 5000,
+			"max_qty": 5,
 			"offer_percentage": 12,
 			"unit": "gm",
 			"unit_measure": "500"
@@ -90,7 +90,7 @@
 			"image": "https://www.freepngimg.com/thumb/cabbage/3-cauliflower-png-image-thumb.png",
 			"original_price": 40,
 			"special_price": 27,
-			"max_qty": 5000,
+			"max_qty": 5,
 			"offer_percentage": 12,
 			"unit": "gm",
 			"unit_measure": "500"
@@ -118,7 +118,7 @@
 			"image": "https://www.freepngimg.com/thumb/orange/19-orange-png-image-download-thumb.png",
 			"original_price": 40,
 			"special_price": 28,
-			"max_qty": 5000,
+			"max_qty": 10,
 			"offer_percentage": 12,
 			"unit": "gm",
 			"unit_measure": "500"
@@ -132,7 +132,7 @@
 			"image": "https://www.freepngimg.com/thumb/banana/8-banana-png-image-thumb.png",
 			"original_price": 28,
 			"special_price": 18,
-			"max_qty": 5000,
+			"max_qty": 10,
 			"offer_percentage": 12,
 			"unit": "gm",
 			"unit_measure": "500"
@@ -147,7 +147,7 @@
 			"original_price": 45,
 			"special_price": 35,
 			"offer_percentage": 10,
-			"max_qty": 5000,
+			"max_qty": 5,
 			"unit": "gm",
 			"unit_measure": "500"
 		},
@@ -160,7 +160,7 @@
 			"image": "https://www.freepngimg.com/thumb/bottle/14-milk-glass-bottle-png-thumb.png",
 			"original_price": 35,
 			"special_price": 25,
-			"max_qty": 5,
+			"max_qty": 10,
 			"offer_percentage": 10,
 			"unit": "ltr",
 			"unit_measure": "500"
@@ -202,7 +202,7 @@
 			"image": "https://www.freepngimg.com/thumb/fish/11-fish-png-image-thumb.png",
 			"original_price": 110,
 			"special_price": 85,
-			"max_qty": 5000,
+			"max_qty": 10,
 			"offer_percentage": 10,
 			"unit": "gm",
 			"unit_measure": "500"
@@ -216,6 +216,7 @@
 			"image": "https://github.com/Bharath-D/helloworld/blob/master/mixed.png",
 			"original_price": 110,
 			"special_price": 85,
+			"max_qty": 10,
 			"offer_percentage": 10,
 			"unit": "gm",
 			"unit_measure": "500"
@@ -231,7 +232,7 @@
 			"original_price": 110,
 			"special_price": 85,
 			"offer_percentage": 10,
-			"max_qty": 5000,
+			"max_qty": 10,
 			"unit": "gm",
 			"unit_measure": "500"
 		},
@@ -269,7 +270,7 @@
 			"category_name": "Fruits",
 			"image": "https://www.freepngimg.com/thumb/apple_fruit/24921-9-apple-fruit-thumb.png",
 			"special_price": 50,
-			"max_qty": 5000,
+			"max_qty": 5,
 			"unit": "gm",
 			"unit_measure": "500"
 		}
