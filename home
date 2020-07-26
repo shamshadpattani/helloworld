@@ -55,7 +55,7 @@
 		},
 		{
 			"PID": 2,
-			"isOffer: "True",
+			"isOffer": "True",
 			"name": "Cabbage",
 			"CID": 2,
 			"CategoryName": "Vegetables",
