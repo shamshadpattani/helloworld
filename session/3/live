@@ -1,0 +1,23 @@
+{
+	"data": {
+		"data_rate": "14000",
+		"beacons": [{
+				"id": "AC233F6F97B7",
+				"active": false
+			},
+			{
+				"id": "AC233F6F97B8",
+				"active": true
+			},
+			{
+				"id": "AC233F6F97B9",
+				"active": true
+			}
+		],
+		"gateways": [
+			"G233F6F97B7",
+			"G233F6F97B8",
+			"G233F6F97B9"
+		]
+	}
+}
