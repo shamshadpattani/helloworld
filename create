@@ -1,0 +1,19 @@
+{
+    userid:"asghdsghhdsgabgh13jkdf"
+    "beacons": [
+        "AC233F6F97B2",
+        "AC233F6F97B5",  
+        "AC233F6F97B6"
+    ],
+    "zone": "Z1",
+    "bay": "B2",
+    "d": {
+        "d1": 10, 
+        "d2": 15,
+        "d3": 11.2, 
+        "d4": 13
+    },
+    "comments": "5 min test with 1 beacon"
+    "duration":<millisec>,
+    "start" : <boolean> //start immediately if true, add to que if false
+}
