@@ -1,0 +1,50 @@
+{
+    sessions: [
+        {
+     session_id; 1,
+     userid:"asghdsghhdsgabgh13jkdf"
+    "beacons": [
+        "AC233F6F97B2",
+        "AC233F6F97B5",  
+        "AC233F6F97B6"
+    ],
+    "zone": "Z1",
+    "bay": "B2",
+    "d": {
+        "d1": 10, 
+        "d2": 15,
+        "d3": 11.2, 
+        "d4": 13
+    },
+    "comments": "5 min test with 1 beacon"
+    "duration":36000,
+    "start" :true 
+     start_time: 1000
+     end_time: 1300
+     status: "R"  
+        },
+         {
+    session_id; 2,
+    userid:"asghdsghhdsgabgh13jkdf"
+    "beacons": [
+        "AC233F6F97B7",
+        "AC233F6F97B8",  
+        "AC233F6F97B9"
+    ],
+    "zone": "Z2",
+    "bay": "B3",
+    "d": {
+        "d1": 10, 
+        "d2": 10,
+        "d3": 11, 
+        "d4": 11
+    },
+    "comments": "5 min test with 1 beacon"
+    "duration":36000,
+    "start" :false 
+            start_time: null
+            end_time: null
+            status: Q 
+        }
+    ]
+}
