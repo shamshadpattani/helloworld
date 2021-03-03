@@ -3,9 +3,9 @@
   			"session_id": 1,
   			"userid": "asghdsghhdsgabgh13jkdf",
   			"beacons": [
+  				"AC233F6F97B1",
   				"AC233F6F97B2",
-  				"AC233F6F97B5",
-  				"AC233F6F97B6"
+  				"AC233F6F97B3"
   			],
   			"zone": "Z1",
   			"bay": "B2",
@@ -26,9 +26,9 @@
   			"session_id": "2",
   			"userid": "asghdsghhdsgabgh13jkdf",
   			"beacons": [
-  				"AC233F6F97B7",
-  				"AC233F6F97B8",
-  				"AC233F6F97B9"
+  				"AC233F6F97B4",
+  				"AC233F6F97B5",
+  				"AC233F6F97B6"
   			],
   			"zone": "Z2",
   			"bay": "B3",
@@ -39,7 +39,7 @@
   				"d4": 11
   			},
   			"comments": "5 min test with 1 beacon",
-  			"duration": 36000,
+  			"duration": 35000,
   			"start": false,
   			"start_time": null,
   			"end_time": null,
@@ -53,16 +53,16 @@
   				"AC233F6F97B8",
   				"AC233F6F97B9"
   			],
-  			"zone": "Z2",
-  			"bay": "B3",
+  			"zone": "Z3",
+  			"bay": "B4",
   			"d": {
-  				"d1": 10,
-  				"d2": 10,
-  				"d3": 11,
-  				"d4": 11
+  				"d1": 11,
+  				"d2": 11,
+  				"d3": 11.5,
+  				"d4": 11.5
   			},
   			"comments": "5 min test with 1 beacon",
-  			"duration": 36000,
+  			"duration": 34000,
   			"start": false,
   			"start_time": null,
   			"end_time": 1200,
@@ -72,20 +72,20 @@
       "session_id": 4,
   			"userid": "asghdsghhdsgabgh13jkdf",
   			"beacons": [
-  				"AC233F6F97B2",
-  				"AC233F6F97B5",
-  				"AC233F6F97B6"
+  				"AC233F6F97B10",
+  				"AC233F6F97B11",
+  				"AC233F6F97B12"
   			],
-  			"zone": "Z1",
-  			"bay": "B2",
+  			"zone": "Z4",
+  			"bay": "B5",
   			"d": {
   				"d1": 10,
-  				"d2": 15,
-  				"d3": 11.2,
+  				"d2": 13,
+  				"d3": 11.4,
   				"d4": 13
   			},
   			"comments": "5 min test with 1 beacon",
-  			"duration": 36000,
+  			"duration": 32000,
   			"start": true,
   			"start_time": 1200,
   			"end_time": 1300,
@@ -95,20 +95,20 @@
   			"session_id": "5",
   			"userid": "asghdsghhdsgabgh13jkdf",
   			"beacons": [
-  				"AC233F6F97B7",
-  				"AC233F6F97B8",
-  				"AC233F6F97B9"
+  				"AC233F6F97B13",
+  				"AC233F6F97B14",
+  				"AC233F6F97B15"
   			],
-  			"zone": "Z2",
-  			"bay": "B3",
+  			"zone": "Z5",
+  			"bay": "B6",
   			"d": {
-  				"d1": 10,
-  				"d2": 10,
+  				"d1": 10.2,
+  				"d2": 10.5,
   				"d3": 11,
-  				"d4": 11
+  				"d4": 12
   			},
   			"comments": "5 min test with 1 beacon",
-  			"duration": 36000,
+  			"duration": 36500,
   			"start": false,
   			"start_time": null,
   			"end_time": null,
@@ -118,20 +118,20 @@
   			"session_id": "6",
   			"userid": "asghdsghhdsgabgh13jkdf",
   			"beacons": [
-  				"AC233F6F97B7",
-  				"AC233F6F97B8",
-  				"AC233F6F97B9"
+  				"AC233F6F97B16",
+  				"AC233F6F97B17",
+  				"AC233F6F97B18"
   			],
-  			"zone": "Z2",
-  			"bay": "B3",
+  			"zone": "Z6",
+  			"bay": "B7",
   			"d": {
-  				"d1": 10,
-  				"d2": 10,
-  				"d3": 11,
-  				"d4": 11
+  				"d1": 11,
+  				"d2": 11.5,
+  				"d3": 13,
+  				"d4": 15
   			},
   			"comments": "5 min test with 1 beacon",
-  			"duration": 36000,
+  			"duration": 33500,
   			"start": false,
   			"start_time": null,
   			"end_time": 1100,
