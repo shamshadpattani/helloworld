@@ -23,7 +23,7 @@
   			"status": "R"
   		},
   		{
-  			"session_id": "2",
+  			"session_id": 2,
   			"userid": "asghdsghhdsgabgh13jkdf",
   			"beacons": [
   				"AC233F6F97B4",
@@ -46,7 +46,7 @@
   			"status": "Q"
   		},
       {
-  			"session_id": "3",
+  			"session_id": 3,
   			"userid": "asghdsghhdsgabgh13jkdf",
   			"beacons": [
   				"AC233F6F97B7",
@@ -92,7 +92,7 @@
   			"status": "R"
   		},
   		{
-  			"session_id": "5",
+  			"session_id": 5,
   			"userid": "asghdsghhdsgabgh13jkdf",
   			"beacons": [
   				"AC233F6F97B13",
@@ -115,7 +115,7 @@
   			"status": "Q"
   		},
       {
-  			"session_id": "6",
+  			"session_id": 6,
   			"userid": "asghdsghhdsgabgh13jkdf",
   			"beacons": [
   				"AC233F6F97B16",
